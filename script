@@ -1,7 +1,1 @@
-task.spawn(function()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/seC56Q94PJ/0", true))()
-end)
-
-task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/zovlanexd/guis/refs/heads/main/zovlane", true))()
-end)
+loadstring(game:HttpGet("https://pastefy.app/lcDxqkIC/raw"))()
